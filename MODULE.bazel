@@ -3,6 +3,7 @@
 module(
     name = "rules_graalvm",
     version = "0.9.0",
+    compatibility_level = 1,
 )
 
 GRAALVM_SDK_VERSION = "23.0.1"
